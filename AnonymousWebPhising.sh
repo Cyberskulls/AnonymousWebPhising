@@ -2,6 +2,7 @@
 # AnonymousWebPhising Tool (https://github.com/Cyberskulls/AnonymousWebPhising.git) by indonesiancyberskulls under GNU LICENSE 
 # Coded by: @indonesiancybeskulls (https://github.com/Cyberskulls/AnonymousWebPhising.git)
 # Upgraded by: @indonesiancyberskulls (https://github.com/Cyberskulls/AnonymousWebPhising.git)
+# please subscribe my chanel @indonesiancyberskulls (https://github.com/Cyberskulls/AnonymousWebPhising)
 
 
 trap 'printf "\n";stop;exit 1' 2
